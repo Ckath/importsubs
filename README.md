@@ -1,6 +1,6 @@
+![review](https://xn--z7x.xn--6frz82g/importsubs/review.png)
 # YT Subs Importer - [importsubs](https://xn--z7x.xn--6frz82g/importsubs/)
 small webapp thing to import youtube subs from one account to another, works by parsing the xml file obtained through youtube. link for that is on the page as well.
-
 ## usage
 - log into the account you want to export subscriptions from
 - get the `subscription_manager` file from [this link](https://www.youtube.com/subscription_manager?action_takeout=1)(same link as on the page itself)
